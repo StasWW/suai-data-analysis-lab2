@@ -1,0 +1,20 @@
+{
+  "cells": 49,
+  "code_cells": 15,
+  "executed_code_cells": 15,
+  "errors": [],
+  "figures": [
+    "01_scatter_matrix.png",
+    "02_scatter_by_intent.png",
+    "03_histograms.png",
+    "04_correlation_heatmap.png",
+    "05_variant_intent_home.png",
+    "06_variant_income_age.png",
+    "07_variant_intent_pie.png",
+    "08_hexbin_income_amount.png",
+    "09_box_amount.png",
+    "10_box_income_level.png",
+    "11_box_amount_intent.png",
+    "12_box_income_home.png"
+  ]
+}
